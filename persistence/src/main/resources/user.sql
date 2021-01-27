@@ -1,0 +1,1 @@
+INSERT INTO USERS (MAIL,PASSWORD,FIRST_NAME, LAST_NAME, CANDIDATE, CORPORATE) VALUES ('toto@mail.com','$2a$10$oJDHygSF4NowiDYFhRpVBulSmf1lAfx/ayfgPbGYxUigpsv.L.VLq','Mickael','NIJEAN', true, true);
